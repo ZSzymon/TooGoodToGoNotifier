@@ -3,9 +3,9 @@ import logging
 from unittest import TestCase
 from unittest.mock import Mock
 
-from src.TooGoodToGoNotifier.tooGoodToGoClient import TooGoodToGoClient
-from src.TooGoodToGoNotifier.utils import JsonDb, readToJson
-from src.TooGoodToGoNotifier.main import initTgtgClientFromEnv, addIfNotExists
+from src.tooGoodToGoNotifier.tooGoodToGoClient import TooGoodToGoClient
+from src.tooGoodToGoNotifier.utils import JsonDb, readToJson
+from src.tooGoodToGoNotifier.main import initTgtgClientFromEnv, addIfNotExists
 
 
 class TestDb(TestCase):

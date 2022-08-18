@@ -2,7 +2,7 @@ import logging
 
 from unittest import TestCase
 
-from src.TooGoodToGoNotifier.notifierSender import EmailNotifier
+from src.tooGoodToGoNotifier.notifierSender import EmailNotifier
 
 
 class EmailSenderTest(TestCase):

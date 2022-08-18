@@ -1,17 +1,18 @@
 import logging
 import logging.config
 import os
+
 from dotenv import load_dotenv
 
-from src.TooGoodToGoNotifier.tooGoodToGoClient import TooGoodToGoClient, initTgtgClientFromEnv
-from src.TooGoodToGoNotifier.notifierSender import EmailNotifier
-from src.TooGoodToGoNotifier.utils import JsonDb, saveToJson
+from notifierSender import EmailNotifier
+from tooGoodToGoClient import initTgtgClientFromEnv
+from utils import JsonDb
 
 
 def setUpLogger():
     Log_Format = "%(levelname)s %(asctime)s - %(message)s"
 
-    logging.basicConfig(filename="logfile.log",
+    logging.basicConfig(filename=os.getenv("LOG_FILE"),
                         filemode="a",
                         format=Log_Format,
                         level=logging.INFO)
@@ -44,10 +45,12 @@ def run():
     available_orders = tgtgClient.getAvailableToOrder()
     anyNew = addIfNotExists(available_orders, db)
     if anyNew:
-        notifier.notify("Avaible order in your place.")
+        notifier.notify("Available order in your place.")
         logger.info("The notification send")
     else:
         logger.info("No new available order in your place.")
+        notifier.notify("No available order in your place.")
+
 
 
 if __name__ == '__main__':

@@ -5,8 +5,8 @@ import os
 from dotenv import load_dotenv
 from tgtg import TgtgClient, TgtgLoginError
 
-from src.TooGoodToGoNotifier.exceptions import CredentialsFileNotExists
-from src.TooGoodToGoNotifier.utils import saveToJson, print_list
+from myExceptions import CredentialsFileNotExists
+from utils import saveToJson, print_list
 
 
 def initTgtgClientFromEnv():

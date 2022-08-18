@@ -1,7 +1,7 @@
 import enum
 from enum import Enum
 from unittest import TestCase
-from src.TooGoodToGoNotifier.tooGoodToGoClient import TooGoodToGoClient
+from src.tooGoodToGoNotifier.tooGoodToGoClient import TooGoodToGoClient
 
 
 class CITY(Enum):
