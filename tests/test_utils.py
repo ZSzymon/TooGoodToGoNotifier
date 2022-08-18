@@ -4,7 +4,8 @@ from unittest import TestCase
 from unittest.mock import Mock
 
 from src.tooGoodToGoNotifier.tooGoodToGoClient import TooGoodToGoClient
-from src.tooGoodToGoNotifier.utils import JsonDb, readToJson
+from src.tooGoodToGoNotifier.utils import readToJson
+from src.tooGoodToGoNotifier.jsonDb import JsonDb
 from src.tooGoodToGoNotifier.main import initTgtgClientFromEnv, addIfNotExists
 
 
@@ -13,7 +14,7 @@ class TestDb(TestCase):
     @classmethod
     def setUpClass(cls) -> None:
         cls.logger = logging.getLogger(__name__)
-        path = "test_db.json"
+        path = "D:\\Szymon\\programming\\python\\TooGoodToGoNotifier\\tests\\test_db.json"
         if os.path.isfile(path):
             os.remove(path)
 
