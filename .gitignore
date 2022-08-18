@@ -1,6 +1,7 @@
 data/
 credentails.json
-
+tests/test_db.json
+db.json
 .idea
 
 # Created by https://www.toptal.com/developers/gitignore/api/pycharm,git,python

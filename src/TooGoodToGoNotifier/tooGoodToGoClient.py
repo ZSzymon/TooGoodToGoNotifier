@@ -2,10 +2,21 @@ import json
 import logging
 import os
 
+from dotenv import load_dotenv
 from tgtg import TgtgClient, TgtgLoginError
 
 from src.TooGoodToGoNotifier.exceptions import CredentialsFileNotExists
 from src.TooGoodToGoNotifier.utils import saveToJson, print_list
+
+
+def initTgtgClientFromEnv():
+    load_dotenv()
+    latitude = float(os.getenv("latitude".upper()))
+    longitude = float(os.getenv("longitude".upper()))
+    radius = int(os.getenv("radius".upper()))
+    credentials_path = os.getenv("credentials_path".upper())
+    tgtgClient = TooGoodToGoClient(latitude, longitude, radius, credentials_path)
+    return tgtgClient
 
 
 class TooGoodToGoClient:
@@ -90,28 +101,6 @@ class TooGoodToGoClient:
             items.extend(items_chunk)
             current_page += 1
         return items
-
-    def my_history_example(self):
-        orders = self.getAllInActive()
-
-        redeemed_orders = [x for x in orders if x["state"] == "REDEEMED"]
-        redeemed_items = sum([x["quantity"] for x in redeemed_orders])
-
-        # if you bought in multiple currencies this will need improvements
-        money_spend = sum(
-            [
-                x["price_including_taxes"]["minor_units"]
-                / (10 ** x["price_including_taxes"]["decimals"])
-                for x in redeemed_orders
-            ]
-        )
-
-        print(f"Total numbers of orders: {len(orders)}")
-        print(f"Total numbers of picked up orders: {len(redeemed_orders)}")
-        print(f"Total numbers of items picked up: {redeemed_items}")
-        print(
-            f"Total money spend: ~{money_spend:.2f}{redeemed_orders[0]['price_including_taxes']['code']}"
-        )
 
     def getAvailableToOrder(self):
         a = [order for order in self.getAllItems() if order['items_available'] > 0]

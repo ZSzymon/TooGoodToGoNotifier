@@ -1,0 +1,3944 @@
+[
+    {
+        "item": {
+            "item_id": "286291",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 8.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 111,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1388,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1499,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 4167,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 4500,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "250878",
+                "current_url": "https://images.tgtg.ninja/item/cover/418c84c7-0f34-42cc-8242-2755bcc03c3f.png",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "603337",
+                "current_url": "https://images.tgtg.ninja/storebulkimport/logo/40330/530cdd0a-8aa7-47b8-876b-f01edf5b4f6f.png",
+                "is_automatically_created": false
+            },
+            "name": "",
+            "description": "W Gor\u0105co Polecam uratujesz przepyszne pieczywo, s\u0142odkie i s\u0142one wypieki, przek\u0105ski, kanapki, sa\u0142atki oraz nabia\u0142.\n\n\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119. Je\u015bli nie zabierzesz w\u0142asnej torby, to na miejscu obowi\u0105zuje op\u0142ata (1 z\u0142)",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119. Je\u015bli nie zabierzesz w\u0142asnej torby, to na miejscu obowi\u0105zuje op\u0142ata (1 z\u0142)",
+            "diet_categories": [],
+            "item_category": "BAKED_GOODS",
+            "badges": [
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 92,
+                    "user_count": 292,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 94,
+                    "user_count": 292,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY",
+                "POSITIVE_FEEDBACK_GREAT_VALUE"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.632958801498128,
+                "rating_count": 267,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "269991",
+            "store_name": "Gor\u0105co Polecam",
+            "branch": "Niepodleg\u0142o\u015bci",
+            "description": "W Gor\u0105co Polecam znajdziesz rodzinn\u0105 atmosfer\u0119, przyjazne wn\u0119trze, \u017cyczliw\u0105 obs\u0142ug\u0119, ale przede wszystkim wy\u015bmienite pieczywo \u2013 powsta\u0142e w oparciu o tradycyjne receptury.",
+            "tax_identifier": "PL6423197941",
+            "website": "www.goraco-polecam.pl",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "aleja Niepodleg\u0142o\u015bci 227/233 lok. 1, 02-087 Warszawa, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 21.0044046,
+                    "latitude": 52.2196231
+                }
+            },
+            "logo_picture": {
+                "picture_id": "603337",
+                "current_url": "https://images.tgtg.ninja/storebulkimport/logo/40330/530cdd0a-8aa7-47b8-876b-f01edf5b4f6f.png",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 1.0974081581528126,
+            "cover_picture": {
+                "picture_id": "250878",
+                "current_url": "https://images.tgtg.ninja/item/cover/418c84c7-0f34-42cc-8242-2755bcc03c3f.png",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "Gor\u0105co Polecam - Niepodleg\u0142o\u015bci",
+        "pickup_interval": {
+            "start": "2022-08-18T16:30:00Z",
+            "end": "2022-08-18T17:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "aleja Niepodleg\u0142o\u015bci 227/233 lok. 1, 02-087 Warszawa, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 21.0044046,
+                "latitude": 52.2196231
+            }
+        },
+        "purchase_end": "2022-08-18T17:00:00Z",
+        "items_available": 2,
+        "distance": 1.0974081581528126,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "49255",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 8.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 89,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1111,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1200,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 3333,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 3600,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "84233",
+                "current_url": "https://images.tgtg.ninja/item/cover/f98a7763-1b81-4ca2-b4d9-aec7f0dadc6c.jpg",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "84347",
+                "current_url": "https://images.tgtg.ninja/store/661cfea0-3d75-42d4-835a-2d16346798e2.jpg",
+                "is_automatically_created": false
+            },
+            "name": "\u015aniadania",
+            "description": "O miejscu:\n\ud83d\udd0eNovotel Centrum to 4* hotel nale\u017c\u0105cy do grupy Accor, kt\u00f3ra od lat realizuje program spo\u0142ecznej odpowiedzialno\u015bci biznesu \"Planet 21\".\n\ud83c\udf70W restauracji hotelowej uratujesz pyszne produkty \u015bniadaniowe, wypieki i croissanty.\n\ud83d\udc49 Trudno przewidzie\u0107 dok\u0142adnie, jakie produkty nie zostan\u0105 sprzedane na koniec dnia! To oznacza, \u017ce zawarto\u015b\u0107 paczki to zawsze pyszna niespodzianka.\n\ud83d\udca1 Ponad 50 ton jedzenia jest wyrzucanych na \u015bwiecie co sekund\u0119 - pom\u00f3\u017c ograniczy\u0107 marnowanie i uratuj pyszny posi\u0142ek.\n\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119.",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "",
+            "diet_categories": [],
+            "item_category": "MEAL",
+            "badges": [
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 86,
+                    "user_count": 439,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 92,
+                    "user_count": 439,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_VALUE"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.501234567901235,
+                "rating_count": 405,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "47473",
+            "store_name": "Hotel Novotel Warszawa Centrum",
+            "branch": "",
+            "description": "",
+            "tax_identifier": "PL5260250469",
+            "website": "",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Marsza\u0142kowska 94/98, 00-510 Warszawa, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 21.0131961,
+                    "latitude": 52.2293754
+                }
+            },
+            "logo_picture": {
+                "picture_id": "84347",
+                "current_url": "https://images.tgtg.ninja/store/661cfea0-3d75-42d4-835a-2d16346798e2.jpg",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 1.5896086659641153,
+            "cover_picture": {
+                "picture_id": "84233",
+                "current_url": "https://images.tgtg.ninja/item/cover/f98a7763-1b81-4ca2-b4d9-aec7f0dadc6c.jpg",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "Hotel Novotel Warszawa Centrum (\u015aniadania)",
+        "pickup_interval": {
+            "start": "2022-08-19T09:00:00Z",
+            "end": "2022-08-19T10:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Marsza\u0142kowska 94/98, 00-510 Warszawa, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 21.0131961,
+                "latitude": 52.2293754
+            }
+        },
+        "purchase_end": "2022-08-19T10:00:00Z",
+        "items_available": 1,
+        "distance": 1.5896086659641153,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "282551",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 8.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 111,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1388,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1499,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 4167,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 4500,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "251376",
+                "current_url": "https://images.tgtg.ninja/item/cover/b73693eb-e0f4-4e10-a6f8-86f2311b7d30.png",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "603337",
+                "current_url": "https://images.tgtg.ninja/storebulkimport/logo/40330/530cdd0a-8aa7-47b8-876b-f01edf5b4f6f.png",
+                "is_automatically_created": false
+            },
+            "name": "",
+            "description": "W Gor\u0105co Polecam uratujesz przepyszne pieczywo, s\u0142odkie i s\u0142one wypieki, przek\u0105ski, kanapki, sa\u0142atki oraz nabia\u0142.\n\n\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119. Je\u015bli nie zabierzesz w\u0142asnej torby, to na miejscu obowi\u0105zuje op\u0142ata (1 z\u0142)",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "UWAGA! Lokal znajduje si\u0119 w podziemiach Dworca Centralnego, blisko stacji WKD i Hebe \ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119. Je\u015bli nie zabierzesz w\u0142asnej torby, to na miejscu obowi\u0105zuje op\u0142ata (1 z\u0142)",
+            "diet_categories": [],
+            "item_category": "BAKED_GOODS",
+            "badges": [
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 90,
+                    "user_count": 230,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 93,
+                    "user_count": 230,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_VALUE"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.60377358490566,
+                "rating_count": 212,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "272462",
+            "store_name": "Gor\u0105co Polecam",
+            "branch": "Centralny podziemia - WKD",
+            "description": "W Gor\u0105co Polecam znajdziesz rodzinn\u0105 atmosfer\u0119, przyjazne wn\u0119trze, \u017cyczliw\u0105 obs\u0142ug\u0119, ale przede wszystkim wy\u015bmienite pieczywo \u2013 powsta\u0142e w oparciu o tradycyjne receptury.",
+            "tax_identifier": "PL9372482201",
+            "website": "www.goraco-polecam.pl",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "aleje Jerozolimskie 54, 00-694 Warszawa, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 21.003052,
+                    "latitude": 52.2289967
+                }
+            },
+            "logo_picture": {
+                "picture_id": "603337",
+                "current_url": "https://images.tgtg.ninja/storebulkimport/logo/40330/530cdd0a-8aa7-47b8-876b-f01edf5b4f6f.png",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 1.8518918378050628,
+            "cover_picture": {
+                "picture_id": "251376",
+                "current_url": "https://images.tgtg.ninja/item/cover/b73693eb-e0f4-4e10-a6f8-86f2311b7d30.png",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "Gor\u0105co Polecam - Centralny podziemia - WKD",
+        "pickup_interval": {
+            "start": "2022-08-18T17:30:00Z",
+            "end": "2022-08-18T18:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "aleje Jerozolimskie 54, 00-694 Warszawa, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 21.003052,
+                "latitude": 52.2289967
+            }
+        },
+        "purchase_end": "2022-08-18T18:00:00Z",
+        "items_available": 1,
+        "distance": 1.8518918378050628,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "63854",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 8.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 74,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 925,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 999,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 2778,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 3000,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "109525",
+                "current_url": "https://images.tgtg.ninja/item/cover/19d53b0a-72f7-4e2b-81e3-2796b73c379b.jpg",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "109516",
+                "current_url": "https://images.tgtg.ninja/store/31621079-c6e2-41b7-a8de-bdb968882a42.png",
+                "is_automatically_created": false
+            },
+            "name": "",
+            "description": "Jeste\u015bmy przy Alejach Jerozolimskich 109 pod szyldem Kuchnia za \u015bcian\u0105\n\n\ud83c\udf5e Lunchcat to miejsce, w kt\u00f3rym uratujesz pyszne dania lunchowe, kanapki, koktajle oraz granole. \n\ud83d\udc49 Trudno przewidzie\u0107 dok\u0142adnie, jakie produkty nie zostan\u0105 sprzedane na koniec dnia! To oznacza, \u017ce zawarto\u015b\u0107 paczki to zawsze pyszna niespodzianka\ud83c\udf81\n\ud83d\udca1 Ponad 50 ton jedzenia jest wyrzucanych na \u015bwiecie co sekund\u0119 - pom\u00f3\u017c ograniczy\u0107 marnowanie i uratuj pyszny posi\u0142ek\n\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119.\n",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "Jeste\u015bmy przy Alejach Jerozolimskich 109 pod szyldem Kuchnia za \u015bcian\u0105",
+            "diet_categories": [],
+            "item_category": "MEAL",
+            "badges": [
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 95,
+                    "user_count": 534,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 92,
+                    "user_count": 534,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_VALUE",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.645418326693227,
+                "rating_count": 502,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": true
+        },
+        "store": {
+            "store_id": "59581",
+            "store_name": "Lunchcat",
+            "branch": "",
+            "description": "",
+            "tax_identifier": "PL9512292950",
+            "website": "",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Aleje Jerozolimskie 109",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 20.99453,
+                    "latitude": 52.22596
+                }
+            },
+            "logo_picture": {
+                "picture_id": "109516",
+                "current_url": "https://images.tgtg.ninja/store/31621079-c6e2-41b7-a8de-bdb968882a42.png",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 2.033955291748355,
+            "cover_picture": {
+                "picture_id": "109525",
+                "current_url": "https://images.tgtg.ninja/item/cover/19d53b0a-72f7-4e2b-81e3-2796b73c379b.jpg",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "Lunchcat",
+        "pickup_interval": {
+            "start": "2022-08-18T12:50:00Z",
+            "end": "2022-08-18T14:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Aleje Jerozolimskie 109",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 20.99453,
+                "latitude": 52.22596
+            }
+        },
+        "purchase_end": "2022-08-18T14:00:00Z",
+        "items_available": 13,
+        "distance": 2.033955291748355,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "683022",
+            "sales_taxes": [
+                {
+                    "tax_description": "Podatek",
+                    "tax_percentage": 23.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 215,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 934,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1149,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 2846,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 3500,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "680564",
+                "current_url": "https://images.tgtg.ninja/item/cover/aa0ccd82-29cd-4ecb-a227-63db9b2c7ead.jpg",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "103685",
+                "current_url": "https://images.tgtg.ninja/store/dac9ec3f-066a-4c43-9d28-4dbc533c4237.jpg",
+                "is_automatically_created": false
+            },
+            "name": "paczka \u015bniadaniowa",
+            "description": "W restauracji hotelowej uratujesz dania i produkty z oferty \u015bniadaniowej.\n\nZabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119.",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "Odbi\u00f3r w restauracji Winestone na parterze hotelu. Wej\u015bcie od ulicy Z\u0142otej",
+            "diet_categories": [],
+            "item_category": "MEAL",
+            "badges": [
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LIKED",
+                    "percentage": 76,
+                    "user_count": 333,
+                    "month_count": 4
+                },
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LIKED",
+                    "percentage": 89,
+                    "user_count": 333,
+                    "month_count": 4
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY",
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_VALUE"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 3.5465465465465464,
+                "rating_count": 333,
+                "month_count": 5
+            },
+            "favorite_count": 0,
+            "buffet": true
+        },
+        "store": {
+            "store_id": "56933",
+            "store_name": "Hotel Mercure Warszawa Centrum",
+            "branch": "",
+            "description": "",
+            "tax_identifier": "PL5260250469",
+            "website": "",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Z\u0142ota 48/54, 00-120 Warszawa, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 21.0010569,
+                    "latitude": 52.2307646
+                }
+            },
+            "logo_picture": {
+                "picture_id": "103685",
+                "current_url": "https://images.tgtg.ninja/store/dac9ec3f-066a-4c43-9d28-4dbc533c4237.jpg",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 2.090795500156627,
+            "cover_picture": {
+                "picture_id": "680564",
+                "current_url": "https://images.tgtg.ninja/item/cover/aa0ccd82-29cd-4ecb-a227-63db9b2c7ead.jpg",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "Hotel Mercure Warszawa Centrum (paczka \u015bniadaniowa)",
+        "pickup_interval": {
+            "start": "2022-08-19T09:30:00Z",
+            "end": "2022-08-19T11:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Z\u0142ota 48/54, 00-120 Warszawa, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 21.0010569,
+                "latitude": 52.2307646
+            }
+        },
+        "purchase_end": "2022-08-19T11:00:00Z",
+        "items_available": 6,
+        "distance": 2.090795500156627,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "460710",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 8.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 111,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1388,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1499,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 4167,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 4500,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "250878",
+                "current_url": "https://images.tgtg.ninja/item/cover/418c84c7-0f34-42cc-8242-2755bcc03c3f.png",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "603337",
+                "current_url": "https://images.tgtg.ninja/storebulkimport/logo/40330/530cdd0a-8aa7-47b8-876b-f01edf5b4f6f.png",
+                "is_automatically_created": false
+            },
+            "name": "",
+            "description": "W Gor\u0105co Polecam uratujesz przepyszne pieczywo, s\u0142odkie i s\u0142one wypieki, przek\u0105ski, kanapki, sa\u0142atki oraz nabia\u0142.\n\n\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119. Je\u015bli nie zabierzesz w\u0142asnej torby, to na miejscu obowi\u0105zuje op\u0142ata (1 z\u0142)",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "",
+            "diet_categories": [],
+            "item_category": "BAKED_GOODS",
+            "badges": [
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 96,
+                    "user_count": 445,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 97,
+                    "user_count": 445,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY",
+                "POSITIVE_FEEDBACK_GREAT_VALUE"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.7990430622009566,
+                "rating_count": 418,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "480850",
+            "store_name": "Gor\u0105co Polecam",
+            "branch": "Chmielna",
+            "description": "W Gor\u0105co Polecam znajdziesz rodzinn\u0105 atmosfer\u0119, przyjazne wn\u0119trze, \u017cyczliw\u0105 obs\u0142ug\u0119, ale przede wszystkim wy\u015bmienite pieczywo \u2013 powsta\u0142e w oparciu o tradycyjne receptury.",
+            "tax_identifier": "PL6423197941",
+            "website": "www.goraco-polecam.pl",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Chmielna 89, 00-805 Warszawa, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 20.9921033,
+                    "latitude": 52.2270466
+                }
+            },
+            "logo_picture": {
+                "picture_id": "603337",
+                "current_url": "https://images.tgtg.ninja/storebulkimport/logo/40330/530cdd0a-8aa7-47b8-876b-f01edf5b4f6f.png",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 2.238634908670001,
+            "cover_picture": {
+                "picture_id": "250878",
+                "current_url": "https://images.tgtg.ninja/item/cover/418c84c7-0f34-42cc-8242-2755bcc03c3f.png",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "Gor\u0105co Polecam - Chmielna",
+        "pickup_interval": {
+            "start": "2022-08-18T16:30:00Z",
+            "end": "2022-08-18T17:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Chmielna 89, 00-805 Warszawa, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 20.9921033,
+                "latitude": 52.2270466
+            }
+        },
+        "purchase_end": "2022-08-18T17:00:00Z",
+        "items_available": 5,
+        "distance": 2.238634908670001,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "707510",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 23.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 280,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1220,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1500,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 3659,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 4500,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "700733",
+                "current_url": "https://images.tgtg.ninja/item/cover/22bc4ddb-f5f6-40c8-9d80-0542a50528d9.png",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "702735",
+                "current_url": "https://images.tgtg.ninja/store/960cd86d-78e3-474a-9185-3f4d5130cef0.png",
+                "is_automatically_created": false
+            },
+            "name": "",
+            "description": " \ud83d\udc96Ju\u017c teraz mo\u017cecie uratowa\u0107 pyszne produkty mleczne z kr\u00f3tkim terminem wa\u017cno\u015bci, kt\u00f3re ju\u017c nie maj\u0105 szansy trafi\u0107 do regularnej sprzeda\u017cy.  Paczki prosto z fabryki Danone!",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "",
+            "diet_categories": [],
+            "item_category": "GROCERIES",
+            "badges": [
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 96,
+                    "user_count": 1075,
+                    "month_count": 4
+                },
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 93,
+                    "user_count": 1075,
+                    "month_count": 4
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_GREAT_VALUE",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.691162790697675,
+                "rating_count": 1075,
+                "month_count": 5
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "696907",
+            "store_name": "Danone & Olimp Warszawa ",
+            "branch": "",
+            "description": "\ud83d\udcaaToo Good To Go, Danone i Gastromall (w\u0142a\u015bciciel sieci restauracji Olimp) \u0142\u0105cz\u0105 si\u0142y w ratowaniu pyszno\u015bci! \n\n\ud83d\udc96Ju\u017c teraz mo\u017cecie uratowa\u0107 pyszne paczki z produktami Danone, kt\u00f3re ju\u017c nie maj\u0105 szansy trafi\u0107 do regularnej sprzeda\u017cy, ale s\u0105 po prostu \"Too Good To Go\"! Paczki prosto z fabryki do odbioru w restauracji Olimp.",
+            "tax_identifier": "PL6793189508",
+            "website": "",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "ul, Bobrowiecka 8, 00-728 Warszawa, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 21.0474092,
+                    "latitude": 52.1988537
+                }
+            },
+            "logo_picture": {
+                "picture_id": "702735",
+                "current_url": "https://images.tgtg.ninja/store/960cd86d-78e3-474a-9185-3f4d5130cef0.png",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 2.6779951953543115,
+            "cover_picture": {
+                "picture_id": "700733",
+                "current_url": "https://images.tgtg.ninja/item/cover/22bc4ddb-f5f6-40c8-9d80-0542a50528d9.png",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "Danone & Olimp Warszawa ",
+        "pickup_interval": {
+            "start": "2022-08-18T08:00:00Z",
+            "end": "2022-08-18T16:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "ul, Bobrowiecka 8, 00-728 Warszawa, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 21.0474092,
+                "latitude": 52.1988537
+            }
+        },
+        "purchase_end": "2022-08-18T16:00:00Z",
+        "items_available": 97,
+        "distance": 2.6779951953543115,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "286732",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 8.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 111,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1388,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1499,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 4167,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 4500,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "251376",
+                "current_url": "https://images.tgtg.ninja/item/cover/b73693eb-e0f4-4e10-a6f8-86f2311b7d30.png",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "603337",
+                "current_url": "https://images.tgtg.ninja/storebulkimport/logo/40330/530cdd0a-8aa7-47b8-876b-f01edf5b4f6f.png",
+                "is_automatically_created": false
+            },
+            "name": "",
+            "description": "W Gor\u0105co Polecam uratujesz przepyszne pieczywo, s\u0142odkie i s\u0142one wypieki, przek\u0105ski, kanapki, sa\u0142atki oraz nabia\u0142. \n\n\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119. Je\u015bli nie zabierzesz w\u0142asnej torby, to na miejscu obowi\u0105zuje op\u0142ata (1 z\u0142)",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119. Je\u015bli nie zabierzesz w\u0142asnej torby, to na miejscu obowi\u0105zuje op\u0142ata (1 z\u0142)",
+            "diet_categories": [],
+            "item_category": "BAKED_GOODS",
+            "badges": [
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 97,
+                    "user_count": 264,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 94,
+                    "user_count": 264,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY",
+                "POSITIVE_FEEDBACK_GREAT_VALUE"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.697211155378486,
+                "rating_count": 251,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "272432",
+            "store_name": "Gor\u0105co Polecam",
+            "branch": "Eurocentrum",
+            "description": "W Gor\u0105co Polecam znajdziesz rodzinn\u0105 atmosfer\u0119, przyjazne wn\u0119trze, \u017cyczliw\u0105 obs\u0142ug\u0119, ale przede wszystkim wy\u015bmienite pieczywo \u2013 powsta\u0142e w oparciu o tradycyjne receptury.",
+            "tax_identifier": "PL9372482201",
+            "website": "www.goraco-polecam.pl",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "aleje Jerozolimskie 134, 02-305 Warszawa, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 20.9736639,
+                    "latitude": 52.2212254
+                }
+            },
+            "logo_picture": {
+                "picture_id": "603337",
+                "current_url": "https://images.tgtg.ninja/storebulkimport/logo/40330/530cdd0a-8aa7-47b8-876b-f01edf5b4f6f.png",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 3.157189136164381,
+            "cover_picture": {
+                "picture_id": "251376",
+                "current_url": "https://images.tgtg.ninja/item/cover/b73693eb-e0f4-4e10-a6f8-86f2311b7d30.png",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "Gor\u0105co Polecam - Eurocentrum",
+        "pickup_interval": {
+            "start": "2022-08-18T16:30:00Z",
+            "end": "2022-08-18T17:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "aleje Jerozolimskie 134, 02-305 Warszawa, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 20.9736639,
+                "latitude": 52.2212254
+            }
+        },
+        "purchase_end": "2022-08-18T17:00:00Z",
+        "items_available": 6,
+        "distance": 3.157189136164381,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "551294",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 8.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 111,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1388,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1499,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 4167,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 4500,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "250878",
+                "current_url": "https://images.tgtg.ninja/item/cover/418c84c7-0f34-42cc-8242-2755bcc03c3f.png",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "603337",
+                "current_url": "https://images.tgtg.ninja/storebulkimport/logo/40330/530cdd0a-8aa7-47b8-876b-f01edf5b4f6f.png",
+                "is_automatically_created": false
+            },
+            "name": "",
+            "description": "W Gor\u0105co Polecam uratujesz przepyszne pieczywo, s\u0142odkie i s\u0142one wypieki, przek\u0105ski, kanapki, sa\u0142atki oraz nabia\u0142.\n\n\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119. Je\u015bli nie zabierzesz w\u0142asnej torby, to na miejscu obowi\u0105zuje op\u0142ata (1 z\u0142)",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "",
+            "diet_categories": [],
+            "item_category": "BAKED_GOODS",
+            "badges": [
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 95,
+                    "user_count": 421,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 98,
+                    "user_count": 421,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY",
+                "POSITIVE_FEEDBACK_GREAT_VALUE"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.784263959390863,
+                "rating_count": 394,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "569335",
+            "store_name": "Gor\u0105co Polecam",
+            "branch": "Rodziny Hiszpa\u0144skich",
+            "description": "W Gor\u0105co Polecam znajdziesz rodzinn\u0105 atmosfer\u0119, przyjazne wn\u0119trze, \u017cyczliw\u0105 obs\u0142ug\u0119, ale przede wszystkim wy\u015bmienite pieczywo \u2013 powsta\u0142e w oparciu o tradycyjne receptury.",
+            "tax_identifier": "PL6423197941",
+            "website": "www.goraco-polecam.pl",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Rodziny Hiszpa\u0144skich 8, 02-685 Warszawa, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 21.0064751,
+                    "latitude": 52.1809506
+                }
+            },
+            "logo_picture": {
+                "picture_id": "603337",
+                "current_url": "https://images.tgtg.ninja/storebulkimport/logo/40330/530cdd0a-8aa7-47b8-876b-f01edf5b4f6f.png",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 3.9407982012417655,
+            "cover_picture": {
+                "picture_id": "250878",
+                "current_url": "https://images.tgtg.ninja/item/cover/418c84c7-0f34-42cc-8242-2755bcc03c3f.png",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "Gor\u0105co Polecam - Rodziny Hiszpa\u0144skich",
+        "pickup_interval": {
+            "start": "2022-08-18T16:30:00Z",
+            "end": "2022-08-18T17:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Rodziny Hiszpa\u0144skich 8, 02-685 Warszawa, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 21.0064751,
+                "latitude": 52.1809506
+            }
+        },
+        "purchase_end": "2022-08-18T17:00:00Z",
+        "items_available": 3,
+        "distance": 3.9407982012417655,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "286311",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 8.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 111,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1388,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1499,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 4167,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 4500,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "250878",
+                "current_url": "https://images.tgtg.ninja/item/cover/418c84c7-0f34-42cc-8242-2755bcc03c3f.png",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "603337",
+                "current_url": "https://images.tgtg.ninja/storebulkimport/logo/40330/530cdd0a-8aa7-47b8-876b-f01edf5b4f6f.png",
+                "is_automatically_created": false
+            },
+            "name": "",
+            "description": "W Gor\u0105co Polecam uratujesz przepyszne pieczywo, s\u0142odkie i s\u0142one wypieki, przek\u0105ski, kanapki, sa\u0142atki oraz nabia\u0142.\n\n\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119. Je\u015bli nie zabierzesz w\u0142asnej torby, to na miejscu obowi\u0105zuje op\u0142ata (1 z\u0142)",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119. Je\u015bli nie zabierzesz w\u0142asnej torby, to na miejscu obowi\u0105zuje op\u0142ata (1 z\u0142)",
+            "diet_categories": [],
+            "item_category": "BAKED_GOODS",
+            "badges": [
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 97,
+                    "user_count": 464,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 98,
+                    "user_count": 464,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY",
+                "POSITIVE_FEEDBACK_GREAT_VALUE"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.829493087557604,
+                "rating_count": 434,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "274010",
+            "store_name": "Gor\u0105co Polecam",
+            "branch": "Post\u0119pu 21D",
+            "description": "W Gor\u0105co Polecam znajdziesz rodzinn\u0105 atmosfer\u0119, przyjazne wn\u0119trze, \u017cyczliw\u0105 obs\u0142ug\u0119, ale przede wszystkim wy\u015bmienite pieczywo \u2013 powsta\u0142e w oparciu o tradycyjne receptury.",
+            "tax_identifier": "PL6423197941",
+            "website": "www.goraco-polecam.pl",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Post\u0119pu 21D, Warszawa, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 20.99574,
+                    "latitude": 52.18293
+                }
+            },
+            "logo_picture": {
+                "picture_id": "603337",
+                "current_url": "https://images.tgtg.ninja/storebulkimport/logo/40330/530cdd0a-8aa7-47b8-876b-f01edf5b4f6f.png",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 3.959363070999466,
+            "cover_picture": {
+                "picture_id": "250878",
+                "current_url": "https://images.tgtg.ninja/item/cover/418c84c7-0f34-42cc-8242-2755bcc03c3f.png",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "Gor\u0105co Polecam - Post\u0119pu 21D",
+        "pickup_interval": {
+            "start": "2022-08-18T15:30:00Z",
+            "end": "2022-08-18T16:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Post\u0119pu 21D, Warszawa, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 20.99574,
+                "latitude": 52.18293
+            }
+        },
+        "purchase_end": "2022-08-18T16:00:00Z",
+        "items_available": 3,
+        "distance": 3.959363070999466,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "531062",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 23.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 387,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1682,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 2069,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 5041,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 6200,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "527486",
+                "current_url": "https://images.tgtg.ninja/item/cover/fcea7d9b-b956-49c7-b067-518b03f66307.png",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "111663",
+                "current_url": "https://images.tgtg.ninja/store/68593bf2-92aa-462f-82bc-d16113e84199.jpg",
+                "is_automatically_created": false
+            },
+            "name": "Japo\u0144ska niespodzianka",
+            "description": "6 szt. vegan futo rainbow roll\n8 szt. hosomaki takuan mix color\n1 szt. zupa vegan miso\nsos sojowy i dodatki",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "MUST_BRING_BAG",
+            "collection_info": "",
+            "diet_categories": [
+                "VEGAN"
+            ],
+            "item_category": "MEAL",
+            "badges": [
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LIKED",
+                    "percentage": 89,
+                    "user_count": 1139,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LIKED",
+                    "percentage": 93,
+                    "user_count": 1139,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_GREAT_VALUE",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.183940242763772,
+                "rating_count": 1071,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "60618",
+            "store_name": "VegeSushi Okrzei",
+            "branch": "",
+            "description": "",
+            "tax_identifier": "PL1132622839",
+            "website": "",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Stefana Okrzei 24 lok. 57u, 03-710 Warszawa, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 21.0348075,
+                    "latitude": 52.250874
+                }
+            },
+            "logo_picture": {
+                "picture_id": "111663",
+                "current_url": "https://images.tgtg.ninja/store/68593bf2-92aa-462f-82bc-d16113e84199.jpg",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 4.072519762544659,
+            "cover_picture": {
+                "picture_id": "527486",
+                "current_url": "https://images.tgtg.ninja/item/cover/fcea7d9b-b956-49c7-b067-518b03f66307.png",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "VegeSushi Okrzei (Japo\u0144ska niespodzianka)",
+        "pickup_interval": {
+            "start": "2022-08-18T09:00:00Z",
+            "end": "2022-08-18T19:30:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Stefana Okrzei 24 lok. 57u, 03-710 Warszawa, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 21.0348075,
+                "latitude": 52.250874
+            }
+        },
+        "purchase_end": "2022-08-18T19:30:00Z",
+        "items_available": 8,
+        "distance": 4.072519762544659,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "484383",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 8.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 96,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1203,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1299,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 3704,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 4000,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "266477",
+                "current_url": "https://images.tgtg.ninja/standard_images/GROCERIES/gOUx23DNks.jpg",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "487387",
+                "current_url": "https://images.tgtg.ninja/store/546f1c40-5c73-4e7f-b6a4-74e0e12b78db.jpg",
+                "is_automatically_created": false
+            },
+            "name": "",
+            "description": "Uratuj Paczk\u0119 Niespodziank\u0119 zawieraj\u0105c\u0105 artyku\u0142y spo\u017cywcze (sery, w\u0119dliny, makarony).",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "CH Blue City, poziom -1",
+            "diet_categories": [],
+            "item_category": "GROCERIES",
+            "badges": [
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LIKED",
+                    "percentage": 86,
+                    "user_count": 199,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_GREAT_VALUE",
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 3.3854748603351954,
+                "rating_count": 179,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "513361",
+            "store_name": "The House of Cheese",
+            "branch": "Aleje Jerozolimskie",
+            "description": "",
+            "tax_identifier": "PL5223161748",
+            "website": "",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "al. Jerozolimskie 179, 02-222 Warszawa, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 20.9556897,
+                    "latitude": 52.2125194
+                }
+            },
+            "logo_picture": {
+                "picture_id": "487387",
+                "current_url": "https://images.tgtg.ninja/store/546f1c40-5c73-4e7f-b6a4-74e0e12b78db.jpg",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 4.33118904743978,
+            "cover_picture": {
+                "picture_id": "266477",
+                "current_url": "https://images.tgtg.ninja/standard_images/GROCERIES/gOUx23DNks.jpg",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "The House of Cheese - Aleje Jerozolimskie",
+        "pickup_interval": {
+            "start": "2022-08-18T12:00:00Z",
+            "end": "2022-08-18T17:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "al. Jerozolimskie 179, 02-222 Warszawa, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 20.9556897,
+                "latitude": 52.2125194
+            }
+        },
+        "purchase_end": "2022-08-18T17:00:00Z",
+        "items_available": 2,
+        "distance": 4.33118904743978,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "677363",
+            "sales_taxes": [
+                {
+                    "tax_description": "Podatek",
+                    "tax_percentage": 8.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 118,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1481,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1599,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 4630,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 5000,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "267744",
+                "current_url": "https://images.tgtg.ninja/standard_images/uploads/1497882914_fruit5.jpg",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "675328",
+                "current_url": "https://images.tgtg.ninja/store/4662c4f8-abcb-4d4d-a5e2-5e5c802f11ab.jpg",
+                "is_automatically_created": false
+            },
+            "name": "Paczka du\u017ca",
+            "description": "",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "",
+            "diet_categories": [],
+            "item_category": "GROCERIES",
+            "badges": [
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LIKED",
+                    "percentage": 92,
+                    "user_count": 154,
+                    "month_count": 5
+                },
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 91,
+                    "user_count": 154,
+                    "month_count": 5
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY",
+                "POSITIVE_FEEDBACK_GREAT_VALUE",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.324675324675325,
+                "rating_count": 154,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "673065",
+            "store_name": "BestSeler",
+            "branch": "Rakowska 5",
+            "description": "",
+            "tax_identifier": "",
+            "website": "",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Rakowska 5",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 20.9535244,
+                    "latitude": 52.1977584
+                }
+            },
+            "logo_picture": {
+                "picture_id": "675328",
+                "current_url": "https://images.tgtg.ninja/store/4662c4f8-abcb-4d4d-a5e2-5e5c802f11ab.jpg",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 4.8844913043720295,
+            "cover_picture": {
+                "picture_id": "267744",
+                "current_url": "https://images.tgtg.ninja/standard_images/uploads/1497882914_fruit5.jpg",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "BestSeler - Rakowska 5 (Paczka du\u017ca)",
+        "pickup_interval": {
+            "start": "2022-08-18T12:00:00Z",
+            "end": "2022-08-18T15:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Rakowska 5",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 20.9535244,
+                "latitude": 52.1977584
+            }
+        },
+        "purchase_end": "2022-08-18T15:00:00Z",
+        "items_available": 1,
+        "distance": 4.8844913043720295,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "64559",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 8.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 85,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1064,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1149,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 3241,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 3500,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "3737",
+                "current_url": "https://images.tgtg.ninja/standard_images/uploads/1557160263_aLekkhSejMLdQOEnwuNbfwgljbI1G8UU.jpg",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "107519",
+                "current_url": "https://images.tgtg.ninja/store/5c718368-05db-401f-a3be-5430bf17a8e5.png",
+                "is_automatically_created": false
+            },
+            "name": "\u015aniadanie",
+            "description": "O miejscu:\n\ud83d\udd0eKolekcja Arche to rewitalizowane hotele historyczne, oraz hotele miejskie. Ka\u017cdy z nich ma swoj\u0105 histori\u0119, sw\u00f3j niepowtarzalny styl. \n\ud83c\udf70W restauracji hotelowej uratujesz pyszne zestawy \u015bniadaniowe\n\ud83d\udc49 Trudno przewidzie\u0107 dok\u0142adnie, jakie produkty nie zostan\u0105 sprzedane na koniec dnia! To oznacza, \u017ce zawarto\u015b\u0107 paczki to zawsze pyszna niespodzianka.\n\ud83d\udca1 Ponad 50 ton jedzenia jest wyrzucanych na \u015bwiecie co sekund\u0119 - pom\u00f3\u017c ograniczy\u0107 marnowanie i uratuj pyszny posi\u0142ek.\n\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119.",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "",
+            "diet_categories": [],
+            "item_category": "MEAL",
+            "badges": [
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LIKED",
+                    "percentage": 86,
+                    "user_count": 115,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LIKED",
+                    "percentage": 79,
+                    "user_count": 115,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY",
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_VALUE",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 3.619047619047619,
+                "rating_count": 105,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": true
+        },
+        "store": {
+            "store_id": "58750",
+            "store_name": "Arche Hotel Geologiczna",
+            "branch": "",
+            "description": "",
+            "tax_identifier": "PL8211639335",
+            "website": "",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Geologiczna 4, 02-246 Warszawa, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 20.9564006,
+                    "latitude": 52.1897008
+                }
+            },
+            "logo_picture": {
+                "picture_id": "107519",
+                "current_url": "https://images.tgtg.ninja/store/5c718368-05db-401f-a3be-5430bf17a8e5.png",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 5.147332875558765,
+            "cover_picture": {
+                "picture_id": "3737",
+                "current_url": "https://images.tgtg.ninja/standard_images/uploads/1557160263_aLekkhSejMLdQOEnwuNbfwgljbI1G8UU.jpg",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "Arche Hotel Geologiczna (\u015aniadanie)",
+        "pickup_interval": {
+            "start": "2022-08-19T09:00:00Z",
+            "end": "2022-08-19T11:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Geologiczna 4, 02-246 Warszawa, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 20.9564006,
+                "latitude": 52.1897008
+            }
+        },
+        "purchase_end": "2022-08-19T11:00:00Z",
+        "items_available": 3,
+        "distance": 5.147332875558765,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "487962",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 23.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 280,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1219,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1499,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 3577,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 4400,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "489536",
+                "current_url": "https://images.tgtg.ninja/itembulkimport/cover/24253/9aad4038-89a6-4b61-bae6-b509d472d221.jpg",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "489535",
+                "current_url": "https://images.tgtg.ninja/itembulkimport/logo/24253/a30f7b2d-e1e8-43b2-b181-3d345d918c01.jpg",
+                "is_automatically_created": false
+            },
+            "name": "Paczka bp - mix 2",
+            "description": "\ud83e\udd6a W paczce bp mix znajdziesz zar\u00f3wno produkty z Wild Bean Cafe, jak i produkty ze sklepu. \r\n\ud83d\udc49 Trudno przewidzie\u0107 dok\u0142adnie, jakie produkty nie zostan\u0105 sprzedane w ci\u0105gu dnia! To oznacza, \u017ce zawarto\u015b\u0107 paczki to zawsze pyszna niespodzianka. \r\n\ud83d\udca1 Ponad 50 ton jedzenia jest wyrzucanych na \u015bwiecie co sekund\u0119 - pom\u00f3\u017c ograniczy\u0107 marnowanie i uratuj pyszny posi\u0142ek.\r\n\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119.\r\n\ud83e\udd5c Wiecej o alergenach kt\u00f3re mo\u017cesz znale\u017a\u0107 w naszych produktach www.bp.pl/alergeny",
+            "can_user_supply_packaging": false,
+            "packaging_option": "MUST_BRING_BAG",
+            "diet_categories": [],
+            "item_category": "OTHER",
+            "badges": [
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 91,
+                    "user_count": 11,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 91,
+                    "user_count": 11,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_GREAT_VALUE",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY"
+            ],
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "211232",
+            "store_name": "bp - Ok\u0119cie",
+            "branch": "",
+            "description": "",
+            "tax_identifier": "PL9720865431",
+            "website": "www.bp.com",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Aleja Krakowska 208, 02-210 Warszawa, Poland",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 20.9548615,
+                    "latitude": 52.1866816
+                }
+            },
+            "logo_picture": {
+                "picture_id": "214351",
+                "current_url": "https://images.tgtg.ninja/store/c1c63355-bf67-494c-bc91-84681821b419.jpg",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 5.426336366072768,
+            "cover_picture": {
+                "picture_id": "489536",
+                "current_url": "https://images.tgtg.ninja/itembulkimport/cover/24253/9aad4038-89a6-4b61-bae6-b509d472d221.jpg",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "bp - Ok\u0119cie (Paczka bp - mix 2)",
+        "pickup_interval": {
+            "start": "2022-08-19T12:45:00Z",
+            "end": "2022-08-19T13:55:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Aleja Krakowska 208, 02-210 Warszawa, Poland",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 20.9548615,
+                "latitude": 52.1866816
+            }
+        },
+        "purchase_end": "2022-08-19T13:55:00Z",
+        "items_available": 1,
+        "distance": 5.426336366072768,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "283001",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 8.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 111,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1388,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1499,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 4167,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 4500,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "249621",
+                "current_url": "https://images.tgtg.ninja/item/cover/b599d6e1-a1db-477d-819d-b4963af07324.png",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "603337",
+                "current_url": "https://images.tgtg.ninja/storebulkimport/logo/40330/530cdd0a-8aa7-47b8-876b-f01edf5b4f6f.png",
+                "is_automatically_created": false
+            },
+            "name": "",
+            "description": "W Gor\u0105co Polecam uratujesz przepyszne pieczywo, s\u0142odkie i s\u0142one wypieki, przek\u0105ski, kanapki, sa\u0142atki oraz nabia\u0142.\n\n\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119. Je\u015bli nie zabierzesz w\u0142asnej torby, to na miejscu obowi\u0105zuje op\u0142ata (1 z\u0142)",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119. Je\u015bli nie zabierzesz w\u0142asnej torby, to na miejscu obowi\u0105zuje op\u0142ata (1 z\u0142)",
+            "diet_categories": [],
+            "item_category": "BAKED_GOODS",
+            "badges": [
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 94,
+                    "user_count": 290,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 97,
+                    "user_count": 290,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_VALUE",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.746212121212121,
+                "rating_count": 264,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "272880",
+            "store_name": "Gor\u0105co Polecam",
+            "branch": "Zaj\u0105czka",
+            "description": "W Gor\u0105co Polecam znajdziesz rodzinn\u0105 atmosfer\u0119, przyjazne wn\u0119trze, \u017cyczliw\u0105 obs\u0142ug\u0119, ale przede wszystkim wy\u015bmienite pieczywo \u2013 powsta\u0142e w oparciu o tradycyjne receptury.",
+            "tax_identifier": "",
+            "website": "",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "gen. J\u00f3zefa Zaj\u0105czka 9A/C10, 01-518 Warszawa, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 20.9907206,
+                    "latitude": 52.2612823
+                }
+            },
+            "logo_picture": {
+                "picture_id": "603337",
+                "current_url": "https://images.tgtg.ninja/storebulkimport/logo/40330/530cdd0a-8aa7-47b8-876b-f01edf5b4f6f.png",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 5.440321719309572,
+            "cover_picture": {
+                "picture_id": "249621",
+                "current_url": "https://images.tgtg.ninja/item/cover/b599d6e1-a1db-477d-819d-b4963af07324.png",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "Gor\u0105co Polecam - Zaj\u0105czka",
+        "pickup_interval": {
+            "start": "2022-08-18T15:30:00Z",
+            "end": "2022-08-18T16:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "gen. J\u00f3zefa Zaj\u0105czka 9A/C10, 01-518 Warszawa, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 20.9907206,
+                "latitude": 52.2612823
+            }
+        },
+        "purchase_end": "2022-08-18T16:00:00Z",
+        "items_available": 1,
+        "distance": 5.440321719309572,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "277820",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 5.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 48,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 951,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 999,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 2857,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 3000,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "290218",
+                "current_url": "https://images.tgtg.ninja/item/cover/60cbe4c5-86b8-4bc9-b99c-bbd84dcdf1e6.jpg",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "288170",
+                "current_url": "https://images.tgtg.ninja/store/2223d0c6-4316-4ed7-be22-3dac8cc4d927.png",
+                "is_automatically_created": false
+            },
+            "name": "",
+            "description": "Tu uratujesz warzywa, owoce i nabia\u0142",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "",
+            "diet_categories": [],
+            "item_category": "GROCERIES",
+            "badges": [
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LIKED",
+                    "percentage": 89,
+                    "user_count": 325,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LIKED",
+                    "percentage": 75,
+                    "user_count": 325,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY",
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_GREAT_VALUE",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 3.5608974358974357,
+                "rating_count": 312,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "260862",
+            "store_name": "ZDROWE",
+            "branch": "H\u00fcbnera",
+            "description": "",
+            "tax_identifier": "",
+            "website": "https://www.facebook.com/Zdrowe-warzywa-owoce-i-wi%C4%99cej-106620681208641/",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Zygmunta H\u00fcbnera 2, 01-756 Warszawa, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 20.9694403,
+                    "latitude": 52.2581366
+                }
+            },
+            "logo_picture": {
+                "picture_id": "288170",
+                "current_url": "https://images.tgtg.ninja/store/2223d0c6-4316-4ed7-be22-3dac8cc4d927.png",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 5.8186113026718,
+            "cover_picture": {
+                "picture_id": "290218",
+                "current_url": "https://images.tgtg.ninja/item/cover/60cbe4c5-86b8-4bc9-b99c-bbd84dcdf1e6.jpg",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "ZDROWE - H\u00fcbnera",
+        "pickup_interval": {
+            "start": "2022-08-18T17:00:00Z",
+            "end": "2022-08-18T18:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Zygmunta H\u00fcbnera 2, 01-756 Warszawa, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 20.9694403,
+                "latitude": 52.2581366
+            }
+        },
+        "purchase_end": "2022-08-18T17:00:00Z",
+        "items_available": 4,
+        "distance": 5.8186113026718,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "531046",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 23.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 387,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1682,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 2069,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 5041,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 6200,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "525861",
+                "current_url": "https://images.tgtg.ninja/item/cover/22b705e5-4193-4236-b950-c65b55f6b992.png",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "14471",
+                "current_url": "https://images.tgtg.ninja/store/354a16c3-ddbc-4248-8b0e-46ddea4dfe9f.png",
+                "is_automatically_created": false
+            },
+            "name": "Japo\u0144ska niespodzianka",
+            "description": "6 szt. vegan futomaki rainbow roll z warzywami w kolorach t\u0119czy na wega\u0144skim majonezie.\n8 szt. hosomaki takuan mix color\n1 szt. vegan miso z li\u015bci kombu z glonami wakame.",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "MUST_BRING_BAG",
+            "collection_info": "",
+            "diet_categories": [
+                "VEGAN"
+            ],
+            "item_category": "MEAL",
+            "badges": [
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LIKED",
+                    "percentage": 92,
+                    "user_count": 833,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LIKED",
+                    "percentage": 87,
+                    "user_count": 833,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_GREAT_VALUE",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.012195121951219,
+                "rating_count": 738,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "5262",
+            "store_name": "Pan Sushi",
+            "branch": "",
+            "description": "przepyszne zestawy Pan Sushi i Vege Sushi",
+            "tax_identifier": "PL1132622839",
+            "website": "https://www.pansushi.pl",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Potocka 14, 01-652 Warszawa, Poland",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 20.9797336,
+                    "latitude": 52.2746553
+                }
+            },
+            "logo_picture": {
+                "picture_id": "14471",
+                "current_url": "https://images.tgtg.ninja/store/354a16c3-ddbc-4248-8b0e-46ddea4dfe9f.png",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 7.097965866774475,
+            "cover_picture": {
+                "picture_id": "525861",
+                "current_url": "https://images.tgtg.ninja/item/cover/22b705e5-4193-4236-b950-c65b55f6b992.png",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "Pan Sushi (Japo\u0144ska niespodzianka)",
+        "pickup_interval": {
+            "start": "2022-08-18T09:45:00Z",
+            "end": "2022-08-18T18:50:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Potocka 14, 01-652 Warszawa, Poland",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 20.9797336,
+                "latitude": 52.2746553
+            }
+        },
+        "purchase_end": "2022-08-18T18:50:00Z",
+        "items_available": 24,
+        "distance": 7.097965866774475,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "385613",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 23.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 159,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 690,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 849,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 2033,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 2500,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "349259",
+                "current_url": "https://images.tgtg.ninja/itembulkimport/cover/6370/fa5fb543-55eb-4bb6-bb7f-5b285f58a2d4.jpg",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "349258",
+                "current_url": "https://images.tgtg.ninja/itembulkimport/logo/6370/0995f883-e886-448c-b29d-d137de3ee717.jpg",
+                "is_automatically_created": false
+            },
+            "name": "Zieleniak",
+            "description": "\ud83c\udf81W tej paczce znajd\u0105 si\u0119 owoce i warzywa.\r\n\ud83c\udf31Paczk\u0119 odbierzesz w punkcie Moje Bistro",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "",
+            "diet_categories": [],
+            "item_category": "GROCERIES",
+            "badges": [
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 86,
+                    "user_count": 751,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LIKED",
+                    "percentage": 86,
+                    "user_count": 751,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY",
+                "POSITIVE_FEEDBACK_GREAT_VALUE",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.036710719530102,
+                "rating_count": 681,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "386062",
+            "store_name": "Auchan Warszawa Ursyn\u00f3w",
+            "branch": "",
+            "description": "",
+            "tax_identifier": "PL5260309174",
+            "website": "https://www.auchan.pl",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Pu\u0142awska 427, 02-801 Warszawa, Poland",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 21.0273062,
+                    "latitude": 52.1417505
+                }
+            },
+            "logo_picture": {
+                "picture_id": "588897",
+                "current_url": "https://images.tgtg.ninja/store/858a699b-dba8-4c8c-909c-381fcd7eef17.jpg",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 8.224225441075863,
+            "cover_picture": {
+                "picture_id": "349259",
+                "current_url": "https://images.tgtg.ninja/itembulkimport/cover/6370/fa5fb543-55eb-4bb6-bb7f-5b285f58a2d4.jpg",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "Auchan Warszawa Ursyn\u00f3w (Zieleniak)",
+        "pickup_interval": {
+            "start": "2022-08-18T13:00:00Z",
+            "end": "2022-08-18T19:45:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Pu\u0142awska 427, 02-801 Warszawa, Poland",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 21.0273062,
+                "latitude": 52.1417505
+            }
+        },
+        "purchase_end": "2022-08-18T19:45:00Z",
+        "items_available": 15,
+        "distance": 8.224225441075863,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "282203",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 8.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 111,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1388,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1499,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 4167,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 4500,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "250878",
+                "current_url": "https://images.tgtg.ninja/item/cover/418c84c7-0f34-42cc-8242-2755bcc03c3f.png",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "603337",
+                "current_url": "https://images.tgtg.ninja/storebulkimport/logo/40330/530cdd0a-8aa7-47b8-876b-f01edf5b4f6f.png",
+                "is_automatically_created": false
+            },
+            "name": "",
+            "description": "W Gor\u0105co Polecam uratujesz przepyszne pieczywo, s\u0142odkie i s\u0142one wypieki, przek\u0105ski, kanapki, sa\u0142atki oraz nabia\u0142.\n\n\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119. Je\u015bli nie zabierzesz w\u0142asnej torby, to na miejscu obowi\u0105zuje op\u0142ata (1 z\u0142)",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119. Je\u015bli nie zabierzesz w\u0142asnej torby, to na miejscu obowi\u0105zuje op\u0142ata (1 z\u0142)",
+            "diet_categories": [],
+            "item_category": "BAKED_GOODS",
+            "badges": [
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 94,
+                    "user_count": 541,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 96,
+                    "user_count": 541,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_GREAT_VALUE"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.724206349206349,
+                "rating_count": 504,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "274001",
+            "store_name": "Gor\u0105co Polecam",
+            "branch": "Natolin",
+            "description": "W Gor\u0105co Polecam znajdziesz rodzinn\u0105 atmosfer\u0119, przyjazne wn\u0119trze, \u017cyczliw\u0105 obs\u0142ug\u0119, ale przede wszystkim wy\u015bmienite pieczywo \u2013 powsta\u0142e w oparciu o tradycyjne receptury.",
+            "tax_identifier": "PL6423197941",
+            "website": "www.goraco-polecam.pl",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Aleja Komisji Edukacji Narodowej 46, 02-797 Warszawa, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 21.0565113,
+                    "latitude": 52.1418874
+                }
+            },
+            "logo_picture": {
+                "picture_id": "603337",
+                "current_url": "https://images.tgtg.ninja/storebulkimport/logo/40330/530cdd0a-8aa7-47b8-876b-f01edf5b4f6f.png",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 8.578483797635487,
+            "cover_picture": {
+                "picture_id": "250878",
+                "current_url": "https://images.tgtg.ninja/item/cover/418c84c7-0f34-42cc-8242-2755bcc03c3f.png",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "Gor\u0105co Polecam - Natolin",
+        "pickup_interval": {
+            "start": "2022-08-18T17:30:00Z",
+            "end": "2022-08-18T18:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Aleja Komisji Edukacji Narodowej 46, 02-797 Warszawa, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 21.0565113,
+                "latitude": 52.1418874
+            }
+        },
+        "purchase_end": "2022-08-18T18:00:00Z",
+        "items_available": 4,
+        "distance": 8.578483797635487,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "494589",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 5.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 92,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1837,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1929,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 5524,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 5800,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "447997",
+                "current_url": "https://images.tgtg.ninja/item/cover/b5e0c53f-c9c0-498d-b928-6046751aec7b.jpg",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "14471",
+                "current_url": "https://images.tgtg.ninja/store/354a16c3-ddbc-4248-8b0e-46ddea4dfe9f.png",
+                "is_automatically_created": false
+            },
+            "name": "HosoParty 32szt.",
+            "description": "Hosomaki wega\u0144skie w kolorach t\u0119czy <3",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "",
+            "diet_categories": [
+                "VEGAN"
+            ],
+            "item_category": "MEAL",
+            "badges": [
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 86,
+                    "user_count": 752,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LIKED",
+                    "percentage": 90,
+                    "user_count": 752,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_VALUE",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.194254445964432,
+                "rating_count": 731,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "524138",
+            "store_name": "Vegesushi by PanSushi",
+            "branch": "",
+            "description": "przepyszne zestawy Pan Sushi i Vege Sushi",
+            "tax_identifier": "PL1132622839",
+            "website": "https://www.pansushi.pl",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Aleja Komisji Edukacji Narodowej 11, lok.G, 02-722 Warszawa, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 21.0626062,
+                    "latitude": 52.1324246
+                }
+            },
+            "logo_picture": {
+                "picture_id": "14471",
+                "current_url": "https://images.tgtg.ninja/store/354a16c3-ddbc-4248-8b0e-46ddea4dfe9f.png",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 9.707158226271616,
+            "cover_picture": {
+                "picture_id": "447997",
+                "current_url": "https://images.tgtg.ninja/item/cover/b5e0c53f-c9c0-498d-b928-6046751aec7b.jpg",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "Vegesushi by PanSushi (HosoParty 32szt.)",
+        "pickup_interval": {
+            "start": "2022-08-18T10:00:00Z",
+            "end": "2022-08-18T19:20:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Aleja Komisji Edukacji Narodowej 11, lok.G, 02-722 Warszawa, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 21.0626062,
+                "latitude": 52.1324246
+            }
+        },
+        "purchase_end": "2022-08-18T19:20:00Z",
+        "items_available": 6,
+        "distance": 9.707158226271616,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "531063",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 23.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 387,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1682,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 2069,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 5041,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 6200,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "527478",
+                "current_url": "https://images.tgtg.ninja/item/cover/221f0f84-8d9d-4be1-bacd-e875f6bbcd04.png",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "14471",
+                "current_url": "https://images.tgtg.ninja/store/354a16c3-ddbc-4248-8b0e-46ddea4dfe9f.png",
+                "is_automatically_created": false
+            },
+            "name": "Japo\u0144ska niespodzianka",
+            "description": "6 szt. vegan futo rainbow roll\n8 szt. hosomaki takuan mix color\n1 szt. zupa vegan miso\nsos sojowy i dodatki",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "MUST_BRING_BAG",
+            "collection_info": "",
+            "diet_categories": [],
+            "item_category": "MEAL",
+            "badges": [
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LIKED",
+                    "percentage": 88,
+                    "user_count": 692,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LIKED",
+                    "percentage": 93,
+                    "user_count": 692,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_GREAT_VALUE",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.064308681672026,
+                "rating_count": 622,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "524138",
+            "store_name": "Vegesushi by PanSushi",
+            "branch": "",
+            "description": "przepyszne zestawy Pan Sushi i Vege Sushi",
+            "tax_identifier": "PL1132622839",
+            "website": "https://www.pansushi.pl",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Aleja Komisji Edukacji Narodowej 11, lok.G, 02-722 Warszawa, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 21.0626062,
+                    "latitude": 52.1324246
+                }
+            },
+            "logo_picture": {
+                "picture_id": "14471",
+                "current_url": "https://images.tgtg.ninja/store/354a16c3-ddbc-4248-8b0e-46ddea4dfe9f.png",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 9.707158226271616,
+            "cover_picture": {
+                "picture_id": "527478",
+                "current_url": "https://images.tgtg.ninja/item/cover/221f0f84-8d9d-4be1-bacd-e875f6bbcd04.png",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "Vegesushi by PanSushi (Japo\u0144ska niespodzianka)",
+        "pickup_interval": {
+            "start": "2022-08-18T10:30:00Z",
+            "end": "2022-08-18T19:25:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Aleja Komisji Edukacji Narodowej 11, lok.G, 02-722 Warszawa, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 21.0626062,
+                "latitude": 52.1324246
+            }
+        },
+        "purchase_end": "2022-08-18T19:25:00Z",
+        "items_available": 10,
+        "distance": 9.707158226271616,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "212087",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 23.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 280,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1219,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1499,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 3577,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 4400,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "214827",
+                "current_url": "https://images.tgtg.ninja/item/cover/273191ff-689f-4ea3-a39e-6c4cfad181dd.jpg",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "214826",
+                "current_url": "https://images.tgtg.ninja/item/logo/fb968731-07ba-4491-aa25-36ee0edb9e46.jpg",
+                "is_automatically_created": false
+            },
+            "name": "Wild Bean Cafe 2",
+            "description": "O miejscu \ud83d\udd0e\n\ud83e\udd6aW bp Wild Bean Cafe uratujesz pyszne kanapki, tortille, sa\u0142atki, zdrowe jogurty oraz s\u0142odkie rogaliki, muffiny i donuty.\n\ud83d\udc49 Trudno przewidzie\u0107 dok\u0142adnie, jakie produkty nie zostan\u0105 sprzedane w ci\u0105gu dnia! To oznacza, \u017ce zawarto\u015b\u0107 paczki to zawsze pyszna niespodzianka \n\ud83d\udca1 Ponad 50 ton jedzenia jest wyrzucanych na \u015bwiecie co sekund\u0119 - pom\u00f3\u017c ograniczy\u0107 marnowanie i uratuj pyszny posi\u0142ek\n\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119.\n\ud83e\udd5c\u00a0Wiecej o alergenach kt\u00f3re mo\u017cesz znale\u017a\u0107 w naszych produktach\u00a0www.bp.pl/alergeny",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "MUST_BRING_BAG",
+            "collection_info": "",
+            "diet_categories": [],
+            "item_category": "MEAL",
+            "badges": [
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 94,
+                    "user_count": 71,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 90,
+                    "user_count": 71,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_VALUE",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.6461538461538465,
+                "rating_count": 65,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "209772",
+            "store_name": "bp - Weso\u0142a",
+            "branch": "",
+            "description": "",
+            "tax_identifier": "PL9720865431",
+            "website": "www.bp.com",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Trakt Brzeski 50, 05-077 Warszawa, Poland",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 21.2297936,
+                    "latitude": 52.2231071
+                }
+            },
+            "logo_picture": {
+                "picture_id": "214351",
+                "current_url": "https://images.tgtg.ninja/store/c1c63355-bf67-494c-bc91-84681821b419.jpg",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 14.379676090611357,
+            "cover_picture": {
+                "picture_id": "214827",
+                "current_url": "https://images.tgtg.ninja/item/cover/273191ff-689f-4ea3-a39e-6c4cfad181dd.jpg",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "bp - Weso\u0142a (Wild Bean Cafe 2)",
+        "pickup_interval": {
+            "start": "2022-08-18T13:00:00Z",
+            "end": "2022-08-18T15:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Trakt Brzeski 50, 05-077 Warszawa, Poland",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 21.2297936,
+                "latitude": 52.2231071
+            }
+        },
+        "purchase_end": "2022-08-18T15:00:00Z",
+        "items_available": 1,
+        "distance": 14.379676090611357,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "212107",
+            "sales_taxes": [
+                {
+                    "tax_description": "VAT",
+                    "tax_percentage": 23.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 280,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1219,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1499,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 3577,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 4400,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "214827",
+                "current_url": "https://images.tgtg.ninja/item/cover/273191ff-689f-4ea3-a39e-6c4cfad181dd.jpg",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "214826",
+                "current_url": "https://images.tgtg.ninja/item/logo/fb968731-07ba-4491-aa25-36ee0edb9e46.jpg",
+                "is_automatically_created": false
+            },
+            "name": "Wild Bean Cafe 1",
+            "description": "O miejscu \ud83d\udd0e\n\ud83e\udd6aW bp Wild Bean Cafe uratujesz pyszne kanapki, tortille, sa\u0142atki, zdrowe jogurty oraz s\u0142odkie rogaliki, muffiny i donuty.\n\ud83d\udc49 Trudno przewidzie\u0107 dok\u0142adnie, jakie produkty nie zostan\u0105 sprzedane w ci\u0105gu dnia! To oznacza, \u017ce zawarto\u015b\u0107 paczki to zawsze pyszna niespodzianka \n\ud83d\udca1 Ponad 50 ton jedzenia jest wyrzucanych na \u015bwiecie co sekund\u0119 - pom\u00f3\u017c ograniczy\u0107 marnowanie i uratuj pyszny posi\u0142ek\n\ud83c\udf31 Zabierz w\u0142asn\u0105 torb\u0119, by jeszcze bardziej zadba\u0107 o planet\u0119.\n\ud83e\udd5c\u00a0Wiecej o alergenach kt\u00f3re mo\u017cesz znale\u017a\u0107 w naszych produktach\u00a0www.bp.pl/alergeny",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "MUST_BRING_BAG",
+            "collection_info": "",
+            "diet_categories": [],
+            "item_category": "MEAL",
+            "badges": [
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 100,
+                    "user_count": 44,
+                    "month_count": 6
+                },
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 98,
+                    "user_count": 44,
+                    "month_count": 6
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_VALUE",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.864864864864865,
+                "rating_count": 37,
+                "month_count": 6
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "209771",
+            "store_name": "bp - Bellavista",
+            "branch": "",
+            "description": "",
+            "tax_identifier": "PL9720865431",
+            "website": "www.bp.com",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Trakt Brzeski 97, 05-077 Warszawa, Poland",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 21.2449242,
+                    "latitude": 52.2233762
+                }
+            },
+            "logo_picture": {
+                "picture_id": "214351",
+                "current_url": "https://images.tgtg.ninja/store/c1c63355-bf67-494c-bc91-84681821b419.jpg",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 15.410379238994103,
+            "cover_picture": {
+                "picture_id": "214827",
+                "current_url": "https://images.tgtg.ninja/item/cover/273191ff-689f-4ea3-a39e-6c4cfad181dd.jpg",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "bp - Bellavista (Wild Bean Cafe 1)",
+        "pickup_interval": {
+            "start": "2022-08-18T12:48:00Z",
+            "end": "2022-08-18T14:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Trakt Brzeski 97, 05-077 Warszawa, Poland",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 21.2449242,
+                "latitude": 52.2233762
+            }
+        },
+        "purchase_end": "2022-08-18T14:00:00Z",
+        "items_available": 1,
+        "distance": 15.410379238994103,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "781582",
+            "sales_taxes": [
+                {
+                    "tax_description": "Podatek",
+                    "tax_percentage": 23.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 187,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 812,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 999,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 2439,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 3000,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "776654",
+                "current_url": "https://images.tgtg.ninja/item/cover/9cc3e71c-bd5c-4ced-8faf-848ca078266b.jpg",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "778214",
+                "current_url": "https://images.tgtg.ninja/store/f8e5b7a9-74e1-41d2-aa83-8fc04a247e86.jpg",
+                "is_automatically_created": false
+            },
+            "name": "Ma\u0142a paczka",
+            "description": "Uratuj Paczk\u0119 Niespodziank\u0119 zawieraj\u0105c\u0105 artyku\u0142y spo\u017cywcze. Prosto od producenta!",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "",
+            "diet_categories": [],
+            "item_category": "GROCERIES",
+            "badges": [
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 100,
+                    "user_count": 20,
+                    "month_count": 1
+                },
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 100,
+                    "user_count": 20,
+                    "month_count": 1
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_GREAT_VALUE",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.8,
+                "rating_count": 20,
+                "month_count": 2
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "760444",
+            "store_name": "SYS Foods",
+            "branch": "",
+            "description": "",
+            "tax_identifier": "PL5213917452",
+            "website": "https://sklep-sys.pl/pl/producer/SYS-Foods-Sp.-z-o.o.%2C-ul.-Bobrowiecka-34a%2C-05-502-Kamionka/2",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Bobrowiecka 34A, 05-502 Kamionka, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 20.9664079,
+                    "latitude": 52.054242
+                }
+            },
+            "logo_picture": {
+                "picture_id": "778214",
+                "current_url": "https://images.tgtg.ninja/store/f8e5b7a9-74e1-41d2-aa83-8fc04a247e86.jpg",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 18.29214724576007,
+            "cover_picture": {
+                "picture_id": "776654",
+                "current_url": "https://images.tgtg.ninja/item/cover/9cc3e71c-bd5c-4ced-8faf-848ca078266b.jpg",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "SYS Foods (Ma\u0142a paczka)",
+        "pickup_interval": {
+            "start": "2022-08-19T06:00:00Z",
+            "end": "2022-08-19T12:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Bobrowiecka 34A, 05-502 Kamionka, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 20.9664079,
+                "latitude": 52.054242
+            }
+        },
+        "purchase_end": "2022-08-19T12:00:00Z",
+        "items_available": 2,
+        "distance": 18.29214724576007,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    },
+    {
+        "item": {
+            "item_id": "788883",
+            "sales_taxes": [
+                {
+                    "tax_description": "Podatek",
+                    "tax_percentage": 23.0
+                }
+            ],
+            "tax_amount": {
+                "code": "PLN",
+                "minor_units": 299,
+                "decimals": 2
+            },
+            "price_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 1300,
+                "decimals": 2
+            },
+            "price_including_taxes": {
+                "code": "PLN",
+                "minor_units": 1599,
+                "decimals": 2
+            },
+            "value_excluding_taxes": {
+                "code": "PLN",
+                "minor_units": 4065,
+                "decimals": 2
+            },
+            "value_including_taxes": {
+                "code": "PLN",
+                "minor_units": 5000,
+                "decimals": 2
+            },
+            "taxation_policy": "PRICE_INCLUDES_TAXES",
+            "show_sales_taxes": false,
+            "cover_picture": {
+                "picture_id": "778198",
+                "current_url": "https://images.tgtg.ninja/item/cover/bd92df5f-cce0-4cee-8574-b6e6342a4b7d.jpg",
+                "is_automatically_created": false
+            },
+            "logo_picture": {
+                "picture_id": "778214",
+                "current_url": "https://images.tgtg.ninja/store/f8e5b7a9-74e1-41d2-aa83-8fc04a247e86.jpg",
+                "is_automatically_created": false
+            },
+            "name": "Du\u017ca paczka",
+            "description": "",
+            "food_handling_instructions": "",
+            "can_user_supply_packaging": false,
+            "packaging_option": "BAG_ALLOWED",
+            "collection_info": "",
+            "diet_categories": [],
+            "item_category": "GROCERIES",
+            "badges": [
+                {
+                    "badge_type": "SERVICE_RATING_SCORE",
+                    "rating_group": "LOVED",
+                    "percentage": 96,
+                    "user_count": 45,
+                    "month_count": 1
+                },
+                {
+                    "badge_type": "OVERALL_RATING_TRUST_SCORE",
+                    "rating_group": "LIKED",
+                    "percentage": 100,
+                    "user_count": 45,
+                    "month_count": 1
+                }
+            ],
+            "positive_rating_reasons": [
+                "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+                "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+                "POSITIVE_FEEDBACK_GREAT_VALUE",
+                "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+                "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+                "POSITIVE_FEEDBACK_GREAT_VARIETY"
+            ],
+            "average_overall_rating": {
+                "average_overall_rating": 4.466666666666667,
+                "rating_count": 45,
+                "month_count": 2
+            },
+            "favorite_count": 0,
+            "buffet": false
+        },
+        "store": {
+            "store_id": "760444",
+            "store_name": "SYS Foods",
+            "branch": "",
+            "description": "",
+            "tax_identifier": "PL5213917452",
+            "website": "https://sklep-sys.pl/pl/producer/SYS-Foods-Sp.-z-o.o.%2C-ul.-Bobrowiecka-34a%2C-05-502-Kamionka/2",
+            "store_location": {
+                "address": {
+                    "country": {
+                        "iso_code": "PL",
+                        "name": "Poland"
+                    },
+                    "address_line": "Bobrowiecka 34A, 05-502 Kamionka, Polska",
+                    "city": "",
+                    "postal_code": ""
+                },
+                "location": {
+                    "longitude": 20.9664079,
+                    "latitude": 52.054242
+                }
+            },
+            "logo_picture": {
+                "picture_id": "778214",
+                "current_url": "https://images.tgtg.ninja/store/f8e5b7a9-74e1-41d2-aa83-8fc04a247e86.jpg",
+                "is_automatically_created": false
+            },
+            "store_time_zone": "Europe/Warsaw",
+            "hidden": false,
+            "favorite_count": 0,
+            "we_care": false,
+            "distance": 18.29214724576007,
+            "cover_picture": {
+                "picture_id": "778198",
+                "current_url": "https://images.tgtg.ninja/item/cover/bd92df5f-cce0-4cee-8574-b6e6342a4b7d.jpg",
+                "is_automatically_created": false
+            },
+            "is_manufacturer": false
+        },
+        "display_name": "SYS Foods (Du\u017ca paczka)",
+        "pickup_interval": {
+            "start": "2022-08-19T05:00:00Z",
+            "end": "2022-08-19T12:00:00Z"
+        },
+        "pickup_location": {
+            "address": {
+                "country": {
+                    "iso_code": "PL",
+                    "name": "Poland"
+                },
+                "address_line": "Bobrowiecka 34A, 05-502 Kamionka, Polska",
+                "city": "",
+                "postal_code": ""
+            },
+            "location": {
+                "longitude": 20.9664079,
+                "latitude": 52.054242
+            }
+        },
+        "purchase_end": "2022-08-19T12:00:00Z",
+        "items_available": 15,
+        "distance": 18.29214724576007,
+        "favorite": false,
+        "in_sales_window": true,
+        "new_item": false
+    }
+]

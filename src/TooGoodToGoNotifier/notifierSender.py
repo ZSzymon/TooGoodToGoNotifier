@@ -9,9 +9,8 @@ from dotenv import load_dotenv
 
 class NotifierSender:
 
-    def __init__(self, env_path):
+    def __init__(self):
         load_dotenv()
-        logging.basicConfig(filename=os.getenv('log_path'.upper()), level=logging.DEBUG)
         self.logger = logging.getLogger(__name__)
 
     def notify(self, message):
@@ -20,15 +19,14 @@ class NotifierSender:
 
 class EmailNotifier(NotifierSender):
 
-    def __init__(self, emailsToNotify: List, env_path):
-        super().__init__(env_path)
+    def __init__(self, emailsToNotify: List):
+        super().__init__()
         self.emailsToNotify = emailsToNotify
 
     def notify(self, message):
         for email in self.emailsToNotify:
-            log = self._send_email(email, message)
+            self._send_email(email, message)
             self.logger.info(f"Send email to: {email}")
-            self.logger.info(log)
 
     def _send_email(self, receiver, message):
         port = os.getenv('PORT')
