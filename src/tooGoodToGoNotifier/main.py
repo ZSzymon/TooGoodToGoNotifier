@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 from notifierSender import EmailNotifier
 from tooGoodToGoClient import initTgtgClientFromEnv
-from utils import JsonDb
+from jsonDb import JsonDb
 
 
 def setUpLogger():
@@ -41,7 +41,7 @@ def run():
     logger = setUpLogger()
     tgtgClient = initTgtgClientFromEnv()
     notifier = EmailNotifier([os.getenv("RECEIVER_EMAIL"), ])
-    db = JsonDb(os.getenv("DB_BATH"))
+    db = JsonDb(os.getenv("DB_PATH"))
     available_orders = tgtgClient.getAvailableToOrder()
     anyNew = addIfNotExists(available_orders, db)
     if anyNew:
