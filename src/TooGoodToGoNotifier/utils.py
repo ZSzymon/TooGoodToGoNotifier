@@ -12,3 +12,4 @@ def print_list(active):
         item = str(item).replace("'", '"')
         item = json.dumps(item)
         print(item)
+

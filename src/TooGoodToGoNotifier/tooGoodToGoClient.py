@@ -1,7 +1,8 @@
 import json
+import logging
 import os
 
-from tgtg import TgtgClient
+from tgtg import TgtgClient, TgtgLoginError
 
 from src.TooGoodToGoNotifier.exceptions import CredentialsFileNotExists
 from src.TooGoodToGoNotifier.utils import saveToJson, print_list
@@ -16,15 +17,13 @@ class TooGoodToGoClient:
         self.radius = radius
         self.credentials_path = credentials_path
         self.client = None
+        self.logger = logging.getLogger(__name__)
+        self.loginByTokens()
 
     def loginByEmail(self, email, verbose=False):
         client = TgtgClient(email=email)
         credentials = client.get_credentials()
         saveToJson(credentials, self.credentials_path)
-
-        if verbose:
-            print(credentials)
-
         self.client = client
         self.isLogged = True
 
@@ -33,17 +32,22 @@ class TooGoodToGoClient:
         accessToken = credentials['access_token']
         refresh_token = credentials['refresh_token']
         user_id = credentials['user_id']
-
         client = TgtgClient(access_token=accessToken, refresh_token=refresh_token, user_id=user_id)
-        self.client = client
-        self.isLogged = True
+
+        try:
+            client.login()
+            self.isLogged = True
+            self.client = client
+            self.logger.info("Logged to TGTG")
+        except TgtgLoginError as e:
+            self.logger.critical(e)
 
     def readCredentials(self):
-        credentails_file_path = self.credentials_path
-        if not os.path.isfile(credentails_file_path):
+        credentials_path = self.credentials_path
+        if not os.path.isfile(credentials_path):
             raise CredentialsFileNotExists("Log in with email first.")
 
-        with open(credentails_file_path, "r") as f:
+        with open(credentials_path, "r") as f:
             credentials = f.read()
             return json.loads(credentials)
 
@@ -75,7 +79,7 @@ class TooGoodToGoClient:
         return orders
 
     def getAllItems(self):
-        page_size = 350
+        page_size = 100
         items = []
         current_page = 1
         while items_chunk := self.client.get_items(page=current_page,
@@ -111,5 +115,4 @@ class TooGoodToGoClient:
 
     def getAvailableToOrder(self):
         a = [order for order in self.getAllItems() if order['items_available'] > 0]
-
         return a
